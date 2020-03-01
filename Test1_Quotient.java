@@ -1,3 +1,5 @@
+//import java.util.Scanner;
+
 public class Test1_Quotient {
      public static void main(String[] args) {
             Scanner  = new Scanner(System.in);
